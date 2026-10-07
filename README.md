@@ -39,3 +39,17 @@ The following KPIs were developed to evaluate overall retail sales performance:
 | Highest Sales Month | August |
 | Lowest Sales Month | April |
 
+## Excel Analysis
+
+Excel was used to organize and analyze the retail sales data before moving into SQL and Power BI.
+
+The analysis included:
+
+- Reviewing and organizing the dataset
+- Creating PivotTables to analyze sales performance
+- Analyzing revenue by category, product, and region
+- Analyzing product quantity sold
+- Analyzing monthly sales trends
+- Creating charts to visualize the results
+- Summarizing key findings for business analysis
+
