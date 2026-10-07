@@ -75,3 +75,19 @@ SELECT Product,
 FROM Retail_Sales_Analysis_Dataset
 GROUP BY Product
 ORDER BY Total_Revenue DESC;
+
+## Power BI Dashboard
+
+Power BI was used to create an interactive dashboard for monitoring retail sales performance.
+
+The dashboard includes:
+
+- Total Revenue KPI
+- Revenue by Category
+- Revenue by Product
+- Revenue by Region
+- Monthly Revenue Trend
+- Units Sold by Product
+- Interactive Region Filter
+
+The dashboard allows users to filter sales performance by region and quickly identify changes in revenue, product performance, and sales trends.
