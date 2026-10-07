@@ -67,7 +67,7 @@ The analysis included:
 - Analyzing monthly revenue
 - Sorting results to identify top and lowest performers
 
-Example SQL query:
+### Example SQL query:
 
 ```sql
 SELECT Product,
