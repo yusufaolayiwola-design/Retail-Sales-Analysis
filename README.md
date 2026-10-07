@@ -92,6 +92,9 @@ The dashboard includes:
 - Interactive Region Filter
 
 The dashboard allows users to filter sales performance by region and quickly identify changes in revenue, product performance, and sales trends.
+### Dashboard Preview
+
+![Retail Sales Power BI Dashboard](retail-sales-dashboard.png)
 
 ## Key Findings
 
