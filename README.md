@@ -116,3 +116,21 @@ Based on the analysis, the following areas could be investigated:
 - Investigate why **Laptops** generated the most revenue while **Chairs** had the highest quantity sold. This can help determine how sales volume and revenue differ across products.
 - Investigate factors that may have contributed to **August** having the highest sales and **April** having the lowest sales.
 - Investigate what factors may be contributing to the **East region's** stronger sales performance.
+
+## Skills Demonstrated
+
+This project demonstrates the following data analytics skills:
+
+- Data cleaning and organization
+- Excel PivotTables and data analysis
+- SQL querying and aggregation
+- KPI development
+- Power BI dashboard development
+- Data visualization
+- Business-focused analysis
+- Identifying trends and patterns
+- Communicating data-driven insights
+
+## Project Summary
+
+This project demonstrates an end-to-end data analytics workflow, from organizing and analyzing raw retail data to developing KPIs and an interactive Power BI dashboard. The analysis was used to identify important sales trends, product performance, and regional performance and translate those findings into potential business recommendations.
