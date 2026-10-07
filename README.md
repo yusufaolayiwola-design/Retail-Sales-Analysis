@@ -92,3 +92,15 @@ The dashboard includes:
 - Interactive Region Filter
 
 The dashboard allows users to filter sales performance by region and quickly identify changes in revenue, product performance, and sales trends.
+
+## Key Findings
+
+The analysis identified several important sales trends:
+
+- **Electronics** generated the highest revenue among the product categories.
+- **Laptops** generated the highest revenue among individual products.
+- **Chairs** had the highest quantity sold, demonstrating that the product with the highest sales volume was not necessarily the highest-revenue product.
+- The **East region** generated the highest regional revenue.
+- **August** had the highest monthly sales.
+- **April** had the lowest monthly sales.
+- Total revenue across the 500 transactions was **$235,128**.
