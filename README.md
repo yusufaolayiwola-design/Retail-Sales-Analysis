@@ -76,6 +76,7 @@ FROM Retail_Sales_Analysis_Dataset
 GROUP BY Product
 ORDER BY Total_Revenue DESC;
 
+
 ## Power BI Dashboard
 
 Power BI was used to create an interactive dashboard for monitoring retail sales performance.
