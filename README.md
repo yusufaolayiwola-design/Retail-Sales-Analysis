@@ -53,3 +53,25 @@ The analysis included:
 - Creating charts to visualize the results
 - Summarizing key findings for business analysis
 
+## SQL Analysis
+
+SQL was used to analyze the dataset and answer key business questions.
+
+The analysis included:
+
+- Calculating total revenue
+- Comparing revenue by product category
+- Identifying the highest-revenue products
+- Comparing product sales quantities
+- Comparing revenue across regions
+- Analyzing monthly revenue
+- Sorting results to identify top and lowest performers
+
+Example SQL query:
+
+```sql
+SELECT Product,
+       SUM(Total_Sales) AS Total_Revenue
+FROM Retail_Sales_Analysis_Dataset
+GROUP BY Product
+ORDER BY Total_Revenue DESC;
