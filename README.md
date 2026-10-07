@@ -25,3 +25,17 @@ The analysis was designed to answer the following business questions:
 7. Which month has the lowest sales?
 8. What KPIs can be used to monitor overall sales performance?
 
+## KPI Analysis
+
+The following KPIs were developed to evaluate overall retail sales performance:
+
+| KPI | Result |
+|---|---:|
+| Total Revenue | $235,128 |
+| Top Revenue Category | Electronics |
+| Top Revenue Product | Laptop |
+| Highest Units Sold | Chair |
+| Top Revenue Region | East |
+| Highest Sales Month | August |
+| Lowest Sales Month | April |
+
