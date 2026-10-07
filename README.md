@@ -74,7 +74,7 @@ SELECT Product,
        SUM(Total_Sales) AS Total_Revenue
 FROM Retail_Sales_Analysis_Dataset
 GROUP BY Product
-ORDER BY Total_Revenue DESC;
+ORDER BY Total_Revenue DESC;```
 
 
 ## Power BI Dashboard
