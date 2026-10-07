@@ -104,3 +104,12 @@ The analysis identified several important sales trends:
 - **August** had the highest monthly sales.
 - **April** had the lowest monthly sales.
 - Total revenue across the 500 transactions was **$235,128**.
+
+## Business Recommendations
+
+Based on the analysis, the following areas could be investigated:
+
+- Continue monitoring the **Electronics** category because it generated the highest revenue.
+- Investigate why **Laptops** generated the most revenue while **Chairs** had the highest quantity sold. This can help determine how sales volume and revenue differ across products.
+- Investigate factors that may have contributed to **August** having the highest sales and **April** having the lowest sales.
+- Investigate what factors may be contributing to the **East region's** stronger sales performance.
