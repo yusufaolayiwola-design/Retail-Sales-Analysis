@@ -1,4 +1,5 @@
 # Retail-Sales-Analysis
+> An end-to-end retail sales analysis project using Excel, SQL, and Power BI to identify revenue trends, product performance, regional performance, and key sales KPIs.
 
 ## Project Overview
 
